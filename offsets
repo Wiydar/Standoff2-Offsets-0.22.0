@@ -6,27 +6,64 @@ Bytes: C0035FD6
 
 fire rate 
 Offset: 0x1C64204
+Bytes: C0035FD6
 
 no recoil 
 Offset: 0x1C659C0
+Bytes: C0035FD6
 
 infinite ammo 
 Offset: 0x1CE8930
+Bytes: C0035FD6
+
+fire rate (not sure)
+Offset: 0x1C64204
+Bytes: C0035FD6
 
 wallshot 
 Offset: 0x1C5D224  
+Bytes: 000080D2C0035FD6
 
 dont return spawn 
 Offset: 0x1D082DC
+Bytes: 00008052C0035FD6
 
 respawn 
 Offset: 0x1DB254C 
+Bytes: 200080D2C0035FD6
 
 fast explode 
 Offset: 0x1C9D778
+Bytes: 20008052C0035FD6
 
 fast round 
 Offset: 0x1CE86DC 
+Bytes: E003271EC0035FD6
 
 fast grenade
 Offset: 0x1C6C9C0 
+Bytes: 200080D2C0035FD6
+
+anti flash
+Offset: 0x1C6FB88
+Bytes: C0035FD6
+
+anti he
+Offset: 0x1C75A4C
+Bytes: C0035FD6
+
+money hack
+Offset: 0x1D0A6A4
+Bytes: 00008052C0035FD6
+
+medal hack (not sure): 
+Offset: 0x1F60830
+Bytes: E07C80D2C0035FD6
+
+speed hack
+Offset: 0x1E143F4
+Bytes: 00D0221EC0035FD6
+
+jump hack
+Offset: 0x340186C
+Bytes: 200080D2C0035FD6
