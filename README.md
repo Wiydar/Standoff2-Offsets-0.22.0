@@ -1,2 +1,2 @@
 Fuck off bitch
-My telegram t.me/@wiydanet
+My telegram https://t.me/wiydanet
