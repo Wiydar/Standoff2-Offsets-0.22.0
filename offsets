@@ -1,19 +1,32 @@
 BY Wiydar 
 
-fire rate 0x1C64204
+team radar 
+Offset: 0x1E1246C, 0x1E12134
+Bytes: C0035FD6
 
-no recoil 0x1C659C0
+fire rate 
+Bytes: 0x1C64204
 
-infinite ammo 0x1CE8930
+no recoil 
+Bytes: 0x1C659C0
 
-wallshot 0x1C5D224  
+infinite ammo 
+Bytes: 0x1CE8930
 
-dont return spawn 0x1D082DC
+wallshot 
+Bytes: 0x1C5D224  
 
-respawn 0x1DB254C 
+dont return spawn 
+Bytes:0x1D082DC
 
-fast explode 0x1C9D778
+respawn 
+Bytes: 0x1DB254C 
 
-fast round 0x1CE86DC 
+fast explode 
+Bytes: 0x1C9D778
 
-fast grenade 0x1C6C9C0 
+fast round 
+Bytes:0x1CE86DC 
+
+fast grenade
+Bytes: 0x1C6C9C0 
